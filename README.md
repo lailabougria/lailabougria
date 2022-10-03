@@ -2,6 +2,7 @@
 
 - 😊 I'm Laila Bougria
 - 💻 I'm a Software Engineer at Particular Software
+- ☁ I'm a Microsoft Azure MVP
 - 🌍 I'm half Spanish, half Moroccan, and was born and raised in Belgium
 - 🎤 I speak at conferences and user groups (checkout my [talks](https://github.com/lailabougria/talks))
 - 👯 I volunteer at [women.code(be)](https://womendotcode.be/)
