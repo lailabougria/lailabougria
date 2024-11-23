@@ -10,6 +10,10 @@
 - 💬 I enjoy talking about software engineering, distributed systems, messaging, observability, the cloud, ...
 - 😄 Pronouns: She/her
 - 🧶 Fun fact: I love to knit and crochet
-- 📫 You can reach me through [X](https://x.com/noctovis), [Mastodon](https://hachyderm.io/@noctovis) or [LinkedIn](https://www.linkedin.com/in/lailabougria/)
-
+- 📫 You can reach me on socials:
+  - [LinkedIn](https://www.linkedin.com/in/lailabougria/)
+  -  [Bluesky](https://bsky.app/profile/noctovis.bsky.social)
+  -  [X](https://x.com/noctovis)
+  -  [Mastodon](https://hachyderm.io/@noctovis)
+  
 Thanks for checking in!
